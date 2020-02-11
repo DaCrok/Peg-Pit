@@ -55,11 +55,35 @@
             }
         },
         {
+            "Key": "0567e7a9-00ed-4862-af0c-08db8769c739",
+            "Value": {
+                "id": "48f94596-4009-4bb9-81c5-36c8663ef21c",
+                "resourcePath": "objects\\oManagerBackgroundMantle\\oManagerBackgroundMantle.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "0ae154c0-c5a5-4b35-83bc-8f827dde89ff",
+            "Value": {
+                "id": "bd3fcb52-0957-4d59-866a-8986ab05726c",
+                "resourcePath": "objects\\oBackgroundCrustBack\\oBackgroundCrustBack.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0c2b0758-d482-4880-a842-b28938a16f55",
             "Value": {
                 "id": "92f7a9dd-29a0-4365-967d-26c17be7dcf8",
                 "resourcePath": "views\\0c2b0758-d482-4880-a842-b28938a16f55.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "0c377574-81f5-4cad-a80a-bc65df7591d1",
+            "Value": {
+                "id": "ed974896-133e-475e-b1ac-fafdcbb2d4ae",
+                "resourcePath": "objects\\oBackgroundMantleBack\\oBackgroundMantleBack.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -71,6 +95,14 @@
             }
         },
         {
+            "Key": "0d504c46-575f-4484-8251-33d691cb39ec",
+            "Value": {
+                "id": "bf509c35-760f-4eef-98a8-25909de6c243",
+                "resourcePath": "objects\\oBackgroundOuterCoreMiddleFront\\oBackgroundOuterCoreMiddleFront.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "14a3f8f3-7612-49bc-a494-1a663c51a40e",
             "Value": {
                 "id": "43f80364-15b8-4528-bb54-adbc0aa1e2fb",
@@ -79,11 +111,27 @@
             }
         },
         {
+            "Key": "174d851e-5f11-4ecf-a823-3133dd8ff44f",
+            "Value": {
+                "id": "e7254821-a633-46f9-a6a8-766c1d7a8fc0",
+                "resourcePath": "objects\\oBackgroundOuterCoreBack\\oBackgroundOuterCoreBack.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "19c1fa22-dc0f-4240-a278-3e53f739df7e",
             "Value": {
                 "id": "fc64d159-22ed-4168-a77a-8e840ca9478e",
                 "resourcePath": "sprites\\sBackgroundCrustMiddleBack\\sBackgroundCrustMiddleBack.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "21b0da3b-ba88-4f81-b106-730a6ce3ce0b",
+            "Value": {
+                "id": "ac6d440d-6dda-434d-8a32-fa02ed1c2f78",
+                "resourcePath": "objects\\oBackgroundCrustMiddle\\oBackgroundCrustMiddle.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -108,6 +156,14 @@
                 "id": "ea7109bc-07f2-4bf5-a9f9-c2fa0ae96d46",
                 "resourcePath": "sprites\\sBackgroundMantleFront\\sBackgroundMantleFront.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "26106198-24b2-4ebb-a8f0-28972705f9cb",
+            "Value": {
+                "id": "c612a33e-e3de-4f27-a87b-f5eec8ad00ed",
+                "resourcePath": "objects\\oBackgroundInnerCoreBack\\oBackgroundInnerCoreBack.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -159,11 +215,19 @@
             }
         },
         {
-            "Key": "32fe7db8-b193-440a-b965-f29e2490ffdf",
+            "Key": "31aebaa5-b6b3-4dfe-9868-d30e92405f92",
             "Value": {
-                "id": "c7abc781-0076-40f2-a6fe-78958578d502",
-                "resourcePath": "sounds\\soPegSmash2\\soPegSmash2.yy",
-                "resourceType": "GMSound"
+                "id": "3a37e402-11ce-4ddd-b918-f0b3a37f9c88",
+                "resourcePath": "objects\\oBackgroundCrustFront\\oBackgroundCrustFront.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "31f28905-48c1-4752-8ad5-42694b9fdcbd",
+            "Value": {
+                "id": "1a64616f-8cbb-43b3-b0a9-80a734f19fce",
+                "resourcePath": "objects\\oManagerBackgroundOuterCore\\oManagerBackgroundOuterCore.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -191,6 +255,14 @@
             }
         },
         {
+            "Key": "3c565f20-9a6e-4d34-97f5-af4864136b2c",
+            "Value": {
+                "id": "ddfdd734-f0be-498b-baea-fc976a6b6263",
+                "resourcePath": "objects\\oBackgroundMantleMiddleFront\\oBackgroundMantleMiddleFront.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3df90f73-4e15-4a05-b220-f02ff574d805",
             "Value": {
                 "id": "b0ab3b8e-87d4-4cb1-b6ab-1364a1ebe7cb",
@@ -212,6 +284,14 @@
                 "id": "c872502f-5dac-4280-9782-8fa6246d947b",
                 "resourcePath": "sprites\\sPegSapphireWide\\sPegSapphireWide.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "4724fa7a-bc2c-49c3-93b1-8107a5b12169",
+            "Value": {
+                "id": "2198465c-4399-41a4-8ce5-2ccda83b3519",
+                "resourcePath": "objects\\oBackgroundInnerCoreMiddle\\oBackgroundInnerCoreMiddle.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -263,14 +343,6 @@
             }
         },
         {
-            "Key": "59748409-d867-429e-8ee1-d889f484330e",
-            "Value": {
-                "id": "64205a3f-44c5-49d0-bf70-18be8419b495",
-                "resourcePath": "sounds\\soRespawn\\soRespawn.yy",
-                "resourceType": "GMSound"
-            }
-        },
-        {
             "Key": "59dac044-bc99-458e-8560-73867df0b8a5",
             "Value": {
                 "id": "b12add56-dfbf-47fc-ba2f-b1ffbc2b4c85",
@@ -279,11 +351,11 @@
             }
         },
         {
-            "Key": "5d63d12e-16e9-4398-9fbd-9e33e958404a",
+            "Key": "5d4d7af1-ab07-44ff-a780-1500fd12947a",
             "Value": {
-                "id": "7e05b1ec-1eb5-429d-81c3-f79d3eeb39d8",
-                "resourcePath": "sounds\\soAim\\soAim.yy",
-                "resourceType": "GMSound"
+                "id": "d9879b94-e242-4a3d-af39-c89eab632b41",
+                "resourcePath": "objects\\oBackgroundInnerCoreFront\\oBackgroundInnerCoreFront.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -295,11 +367,11 @@
             }
         },
         {
-            "Key": "658c0761-f7a6-439c-844c-009e7f546d45",
+            "Key": "6708cd82-ad08-4b6c-baaf-942107f63ceb",
             "Value": {
-                "id": "9cc8ac8c-fc6f-4bd8-b89d-9a69381db382",
-                "resourcePath": "sounds\\soPegSmash3\\soPegSmash3.yy",
-                "resourceType": "GMSound"
+                "id": "fa692118-1857-429f-bb2a-efb4445a0d40",
+                "resourcePath": "objects\\oManagerWindow\\oManagerWindow.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -327,11 +399,11 @@
             }
         },
         {
-            "Key": "7c7cc85c-6b29-4ed1-b882-c2d7868e401f",
+            "Key": "7ea3fae6-9e70-4be5-b411-e9b5b8caf63b",
             "Value": {
-                "id": "5adc51aa-b064-4c60-b4ae-85f5d4568e1a",
-                "resourcePath": "sounds\\soLaunch\\soLaunch.yy",
-                "resourceType": "GMSound"
+                "id": "398d81fe-97a0-4c8c-8660-fc65fc3f32fb",
+                "resourcePath": "objects\\oManagerBackgroundInnerCore\\oManagerBackgroundInnerCore.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -340,22 +412,6 @@
                 "id": "76cbc12c-1eb6-4c5b-b7ca-3bfc90bf74da",
                 "resourcePath": "sprites\\sGemSapphire\\sGemSapphire.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "847226ed-022c-4883-8399-07e8d87fea6e",
-            "Value": {
-                "id": "b07f139c-ee60-48b4-abb1-1e3bf97bd816",
-                "resourcePath": "sounds\\soPegSmash1\\soPegSmash1.yy",
-                "resourceType": "GMSound"
-            }
-        },
-        {
-            "Key": "85445e65-335f-442a-95a1-01f777bab686",
-            "Value": {
-                "id": "b3efb616-4310-4aaf-bd61-d056dca7f587",
-                "resourcePath": "objects\\oCoal\\oCoal.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -383,26 +439,18 @@
             }
         },
         {
-            "Key": "8bbebbd4-c74e-4ac5-817c-8643f186114e",
+            "Key": "8fba0589-3f2a-4ba2-919d-7cefaa48870a",
             "Value": {
-                "id": "b7aa5a65-c608-4cfb-aab7-0b0a468962b3",
-                "resourcePath": "objects\\oLauncher\\oLauncher.yy",
+                "id": "46a51081-4e21-4eba-89e8-9847a7e34c34",
+                "resourcePath": "objects\\oBackgroundInnerCoreMiddleFront\\oBackgroundInnerCoreMiddleFront.yy",
                 "resourceType": "GMObject"
             }
         },
         {
-            "Key": "9127ca3c-fe68-4980-961e-ec0e85aec58a",
+            "Key": "928f3b1a-f5cd-4a75-a8b2-cdbac125480b",
             "Value": {
-                "id": "79da6314-bcb4-4167-bbe3-054f969cb06a",
-                "resourcePath": "objects\\oGame\\oGame.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "95a95c93-736c-44b9-bebe-c8487928dd20",
-            "Value": {
-                "id": "a1822fc5-056b-4361-b92f-ec6a7af208a3",
-                "resourcePath": "objects\\oWall\\oWall.yy",
+                "id": "49f9ed2d-b82c-4e81-a8b0-eb22ec143143",
+                "resourcePath": "objects\\oBackgroundCrustMiddleFront\\oBackgroundCrustMiddleFront.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -511,11 +559,27 @@
             }
         },
         {
+            "Key": "a6045f69-4054-4196-9b70-3f8cc9cc7a2b",
+            "Value": {
+                "id": "87bb08d6-be95-4d61-beb3-5f995f7acec6",
+                "resourcePath": "objects\\oBackgroundMantleMiddle\\oBackgroundMantleMiddle.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "9c13c1d8-9b55-4040-b162-1c0ecc9746e6",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "ac478ac6-6226-4f8b-8de3-6337d4f64de5",
+            "Value": {
+                "id": "8d349576-bb4f-4b3e-9771-e3d012677814",
+                "resourcePath": "objects\\oBackgroundOuterCoreMiddleBack\\oBackgroundOuterCoreMiddleBack.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -543,6 +607,14 @@
             }
         },
         {
+            "Key": "b184e104-bbd9-421d-a739-9d3b9856ebdb",
+            "Value": {
+                "id": "9950f50f-f9c8-4134-97ee-da0e77b9b340",
+                "resourcePath": "objects\\oBackgroundOuterCoreMiddle\\oBackgroundOuterCoreMiddle.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "b1f2e5f9-98df-474f-93c2-ff0150426757",
             "Value": {
                 "id": "129e7784-1647-4e56-a285-d97d0f85f290",
@@ -567,10 +639,10 @@
             }
         },
         {
-            "Key": "b822cf02-d68d-41d5-9fda-57e218752bec",
+            "Key": "bccecf39-ba79-417c-8d5b-357691f91771",
             "Value": {
-                "id": "41809e98-d0d1-4a2d-b2d6-696034b70143",
-                "resourcePath": "objects\\oPeg\\oPeg.yy",
+                "id": "a97735ce-9a98-42e9-8916-89f12bc9c683",
+                "resourcePath": "objects\\oManagerBackgroundCrust\\oManagerBackgroundCrust.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -580,6 +652,14 @@
                 "id": "b13dfb79-64c2-418e-86f3-bc1b75b64cfd",
                 "resourcePath": "rooms\\roomCrust\\roomCrust.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "bfa40884-bfed-46ae-ad46-18c3708d3435",
+            "Value": {
+                "id": "f8d0f43f-e08f-45bb-b43a-ed092edc31b8",
+                "resourcePath": "objects\\oBackgroundMantleMiddleBack\\oBackgroundMantleMiddleBack.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -604,14 +684,6 @@
                 "id": "26444a23-7e30-45af-8378-aeaed7fccd6a",
                 "resourcePath": "rooms\\roomInnerCore\\roomInnerCore.yy",
                 "resourceType": "GMRoom"
-            }
-        },
-        {
-            "Key": "cb34c99f-f369-48d2-8fb7-d862c281cb3d",
-            "Value": {
-                "id": "b935163d-8934-4835-9378-029f9046b054",
-                "resourcePath": "objects\\oAdmin\\oAdmin.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -647,14 +719,6 @@
             }
         },
         {
-            "Key": "d9e117d4-0410-4f30-b265-f1a5c84df878",
-            "Value": {
-                "id": "62ac2482-7ed1-40eb-979d-cabcbe63d93e",
-                "resourcePath": "sounds\\soFail\\soFail.yy",
-                "resourceType": "GMSound"
-            }
-        },
-        {
             "Key": "db20eb8c-6361-460e-a5a9-d723baed8eb7",
             "Value": {
                 "id": "7835f338-a165-4646-9e7c-33b467de28fe",
@@ -687,6 +751,14 @@
             }
         },
         {
+            "Key": "e3ca7fb2-60f7-4475-9d0f-431ef84bf3c2",
+            "Value": {
+                "id": "3dba4ca7-0402-45ed-88f9-e6bdd24aee58",
+                "resourcePath": "objects\\oBackgroundCrustMiddleBack\\oBackgroundCrustMiddleBack.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "e3ff394e-0914-415d-b122-1bb332733125",
             "Value": {
                 "id": "c7da3377-5796-4122-9122-2273d895253f",
@@ -711,6 +783,14 @@
             }
         },
         {
+            "Key": "e8544360-e7a9-42a8-a034-5ac80b516a05",
+            "Value": {
+                "id": "5e049aa2-83c2-48cb-bbc8-7dda9b232c12",
+                "resourcePath": "objects\\oBackgroundOuterCoreFront\\oBackgroundOuterCoreFront.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "e9a5a4df-4646-48cf-9e87-d4bdfd506e04",
             "Value": {
                 "id": "3e9c76a6-fe5a-4c94-af22-b8fa745c9463",
@@ -727,6 +807,22 @@
             }
         },
         {
+            "Key": "f29de252-faad-45ef-b1e5-a933398a0f48",
+            "Value": {
+                "id": "5cd2ab29-d71f-4d64-bb0f-de2364036ad6",
+                "resourcePath": "objects\\oBackgroundInnerCoreMiddleBack\\oBackgroundInnerCoreMiddleBack.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f3bbf80d-d9b4-4385-abea-26c9f45ed031",
+            "Value": {
+                "id": "2dd1b12f-b982-455b-b2fe-9e301fca66ef",
+                "resourcePath": "objects\\oBackgroundMantleFront\\oBackgroundMantleFront.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
                 "id": "e90ae65a-c80e-4baa-b33f-aac83f0a774a",
@@ -740,14 +836,6 @@
                 "id": "53283604-0282-49ed-9fc3-83ab07c5e31b",
                 "resourcePath": "sprites\\sBackgroundCrustBack\\sBackgroundCrustBack.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "f6ae8120-01be-45c8-8b6b-e7c8d5b8de03",
-            "Value": {
-                "id": "1abfbd97-b786-4864-9a49-48b741a6aac8",
-                "resourcePath": "sounds\\soWallBounce\\soWallBounce.yy",
-                "resourceType": "GMSound"
             }
         },
         {
@@ -772,14 +860,6 @@
                 "id": "b4c89f07-8b16-4a32-840d-caf7f3a979db",
                 "resourcePath": "sprites\\sPegAmethystRound\\sPegAmethystRound.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "fbedcac1-544e-45cb-8aa4-ab2a81edd969",
-            "Value": {
-                "id": "160d7315-3712-4210-8714-b590010e08c9",
-                "resourcePath": "sounds\\soGemSmash\\soGemSmash.yy",
-                "resourceType": "GMSound"
             }
         }
     ],
