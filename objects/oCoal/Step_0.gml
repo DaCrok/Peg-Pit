@@ -12,3 +12,6 @@ if(y > 2*room_height) {
 	//repeat(3) instance_create_layer(random(room_width),random_range(300, room_height),"Instances",oPeg);
 	audio_play_sound(soRespawn,0,false);
 }
+if (speed > max_speed){
+	speed = max_speed;
+}

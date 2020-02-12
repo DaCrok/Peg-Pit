@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "1ae9b26e-c499-4bda-bd55-1e0fb60e5924",
+            "Value": {
+                "id": "186336b7-4e03-492b-926a-b5fc5765d06d",
+                "resourcePath": "objects\\oPoint\\oPoint.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "21d3f658-bcfb-4eed-8faf-7fa7b59b2c0b",
             "Value": {
                 "id": "7f9a1669-79b6-490b-ac65-07a5f99876c0",
@@ -127,6 +135,14 @@
             }
         },
         {
+            "Key": "5bb61b1d-b08d-48e7-ad9c-e25406a0e598",
+            "Value": {
+                "id": "97554784-b92a-4cc2-a63a-6da28d38acd7",
+                "resourcePath": "sprites\\sGem\\sGem.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5d63d12e-16e9-4398-9fbd-9e33e958404a",
             "Value": {
                 "id": "7e05b1ec-1eb5-429d-81c3-f79d3eeb39d8",
@@ -148,6 +164,14 @@
                 "id": "1f40237f-6738-46dc-88e5-574dd8dc0715",
                 "resourcePath": "views\\6dcf29fa-e630-460f-b107-8fce84f52a34.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "7345726e-3325-4d0d-8845-667ec4bbd2d8",
+            "Value": {
+                "id": "226de24a-4583-47bf-98bd-ba5aa0e696ff",
+                "resourcePath": "objects\\oGem\\oGem.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -335,6 +359,14 @@
             }
         },
         {
+            "Key": "e8a5e231-5bfb-4806-b3fb-e115b66022c8",
+            "Value": {
+                "id": "7628a5ec-9ed1-47e0-aaf0-31dfbe7ea6b0",
+                "resourcePath": "scripts\\motion_predict\\motion_predict.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "f188ad0c-ec23-4529-b49f-fdd127423434",
             "Value": {
                 "id": "5ae4fe55-d3e6-4158-bb31-79412ebd8c1a",
@@ -368,7 +400,7 @@
         }
     ],
     "script_order": [
-        
+        "e8a5e231-5bfb-4806-b3fb-e115b66022c8"
     ],
     "tutorial": ""
 }
