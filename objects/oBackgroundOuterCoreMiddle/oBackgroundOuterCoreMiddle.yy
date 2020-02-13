@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "oBackgroundOuterCoreMiddle",
     "eventList": [
-        
+        {
+            "id": "fbcb4d03-bfc4-4a08-9396-8a9822b158e5",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 8,
+            "m_owner": "b184e104-bbd9-421d-a739-9d3b9856ebdb"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

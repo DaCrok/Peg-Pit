@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "oBackgroundCrustMiddleBack",
     "eventList": [
-        
+        {
+            "id": "ed162ac3-b0b5-4184-9d16-3edd966db17f",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 8,
+            "m_owner": "e3ca7fb2-60f7-4475-9d0f-431ef84bf3c2"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "oBackgroundMantleBack",
     "eventList": [
-        
+        {
+            "id": "6a9b7384-c0e3-4886-9ef6-9afd31d03f86",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "0c377574-81f5-4cad-a80a-bc65df7591d1"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
