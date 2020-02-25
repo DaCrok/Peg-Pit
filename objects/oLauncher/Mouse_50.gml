@@ -1,3 +1,5 @@
+//if (global.pause) exit;
+
 /// @description mouse movement
 // clicking below the launcher will not move it
 

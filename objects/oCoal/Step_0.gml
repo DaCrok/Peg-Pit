@@ -1,3 +1,11 @@
+/*
+if(global.pause) {
+	speed = 0;
+	gravity = 0;
+	exit;
+}
+*/
+
 image_angle -= 1.5;
 //if(speed == 0) x = lerp(x,targetX,.25);
 if(y == oLauncher.y) {

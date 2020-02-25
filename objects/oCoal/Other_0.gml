@@ -1,4 +1,5 @@
 //audio_play_sound(soFail,0,false);
+global.launched = false;
 lives--;
 
 if( lives <= 0 ) {
