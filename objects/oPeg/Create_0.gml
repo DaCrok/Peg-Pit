@@ -4,7 +4,7 @@ else gem = false;
 
 // randomly make the peg square or round
 square = choose(true, false);
-if(square) image_angle = choose(0, 45, 90, 90+45);
+if(square) image_angle = choose(0, 90);
 
 if(!gem) { // isn't a gem
 	if(room == rCrust) {

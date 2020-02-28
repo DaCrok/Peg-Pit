@@ -1,18 +1,18 @@
 {
-    "id": "21b0da3b-ba88-4f81-b106-730a6ce3ce0b",
+    "id": "928f3b1a-f5cd-4a75-a8b2-cdbac125480b",
     "modelName": "GMObject",
     "mvc": "1.0",
     "name": "oBackgroundCrustMiddle",
     "eventList": [
         {
-            "id": "8ae42baf-1e0d-49c1-9315-ff14204b9b35",
+            "id": "74038390-1cc3-490c-bb4f-345629aca882",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 8,
-            "m_owner": "21b0da3b-ba88-4f81-b106-730a6ce3ce0b"
+            "m_owner": "928f3b1a-f5cd-4a75-a8b2-cdbac125480b"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -33,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "ad6d2871-0221-450c-9ef6-d83cc6735387",
+    "spriteId": "2918225f-6133-4530-85ee-6b17f8174961",
     "visible": true
 }

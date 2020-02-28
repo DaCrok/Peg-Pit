@@ -1,18 +1,18 @@
 {
-    "id": "0567e7a9-00ed-4862-af0c-08db8769c739",
+    "id": "8c349d75-3420-4491-aec2-4d92986d2e36",
     "modelName": "GMObject",
     "mvc": "1.0",
     "name": "oSpawnerBackgroundMantle",
     "eventList": [
         {
-            "id": "e11ae591-12c7-4e37-888d-4b93d1c29038",
+            "id": "92663117-4039-4896-ae55-fa044e844109",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "0567e7a9-00ed-4862-af0c-08db8769c739"
+            "m_owner": "8c349d75-3420-4491-aec2-4d92986d2e36"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
