@@ -4,10 +4,10 @@ speed = speed * 0.9;
 
 // if the peg was a gem, increment the gem count
 if(other.gem) {
-	if(room == rCrust) oInventory.gemsAmethyst++;
-	if(room == rMantle) oInventory.gemsSapphire++;
-	if(room == rOuterCore) oInventory.gemsCitrine++;
-	if(room == rInnerCore) oInventory.gemsEmerald++;
+	if(room == rCrust) oSidebarInventory.gemsAmethyst++;
+	if(room == rMantle) oSidebarInventory.gemsSapphire++;
+	if(room == rOuterCore) oSidebarInventory.gemsCitrine++;
+	if(room == rInnerCore) oSidebarInventory.gemsEmerald++;
 }
 // remove the touched peg
 instance_destroy(other);

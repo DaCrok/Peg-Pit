@@ -1,0 +1,1 @@
+x = int64(oCamera.x);
