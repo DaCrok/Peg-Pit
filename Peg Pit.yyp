@@ -143,6 +143,14 @@
             }
         },
         {
+            "Key": "1cd09e1f-9bc0-47eb-b30d-8b2d3e2c925a",
+            "Value": {
+                "id": "43640ee2-0708-411d-942e-bbf6cf32e2d4",
+                "resourcePath": "sprites\\sTitleTitle\\sTitleTitle.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1d6a9b96-3b51-4622-91cd-a09356ee1c13",
             "Value": {
                 "id": "284df0ab-e7cc-4638-857b-4ad871669f70",
@@ -172,6 +180,14 @@
                 "id": "0d8be8b5-79af-4d26-9c39-eb206ab3ee03",
                 "resourcePath": "views\\24853760-618d-4020-b82f-bca2cfa62dd9.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "24dc074b-56cb-4f0e-8c5c-467ac4487c72",
+            "Value": {
+                "id": "10bc6a26-aa59-41da-bbb6-651dee17279b",
+                "resourcePath": "objects\\oPause\\oPause.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -423,6 +439,14 @@
             }
         },
         {
+            "Key": "6daeb30c-c417-40f6-ac8c-8cced3d3008c",
+            "Value": {
+                "id": "a4028e99-1512-4556-9018-975bd48c8a8e",
+                "resourcePath": "scripts\\buttonTitleDrawHighlight\\buttonTitleDrawHighlight.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "6dcf29fa-e630-460f-b107-8fce84f52a34",
             "Value": {
                 "id": "1f40237f-6738-46dc-88e5-574dd8dc0715",
@@ -475,6 +499,14 @@
             "Value": {
                 "id": "bc3da505-b8d0-4bb7-a4eb-05f635f306e7",
                 "resourcePath": "objects\\oBall\\oBall.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "7e96273e-30c5-4dd2-8383-54cd37edd28f",
+            "Value": {
+                "id": "337f8037-04e9-4018-9f18-f9e8958b3948",
+                "resourcePath": "objects\\oTitleTitle\\oTitleTitle.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -535,6 +567,14 @@
             }
         },
         {
+            "Key": "91d7d8a0-b313-437a-92c4-d35f84c48876",
+            "Value": {
+                "id": "30fd2b0a-5dca-47b8-b87e-35758ad0ba6d",
+                "resourcePath": "objects\\oTitle\\oTitle.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "928f3b1a-f5cd-4a75-a8b2-cdbac125480b",
             "Value": {
                 "id": "49f9ed2d-b82c-4e81-a8b0-eb22ec143143",
@@ -548,6 +588,14 @@
                 "id": "53893228-a982-4301-9a71-d0dd5eeece0a",
                 "resourcePath": "views\\931d5b13-aa4e-4b33-872d-a26c44ae0bca.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9350920f-ebbc-4c5a-8ac7-4676fa17186f",
+            "Value": {
+                "id": "8e6b0fdb-2efd-4f0c-bff2-cafd714ac58a",
+                "resourcePath": "sprites\\sTitleButton\\sTitleButton.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -639,6 +687,14 @@
             }
         },
         {
+            "Key": "a8bd85ee-cd5e-4c46-81d6-8e83604227bc",
+            "Value": {
+                "id": "2a00d9f3-f2d0-4b05-9ea4-52f596a75dfe",
+                "resourcePath": "fonts\\fMVBoli\\fMVBoli.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "9c13c1d8-9b55-4040-b162-1c0ecc9746e6",
@@ -663,6 +719,14 @@
             }
         },
         {
+            "Key": "ad1a27ab-30eb-4ae1-8022-26b462f1b543",
+            "Value": {
+                "id": "e38a6ee7-88e2-451d-bb26-ab519a6baca9",
+                "resourcePath": "objects\\oTitleButtonStart\\oTitleButtonStart.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "ae840685-d105-49d0-845c-80fbde522801",
             "Value": {
                 "id": "feb144ab-6d82-44f7-a9dd-f0487a42a438",
@@ -676,6 +740,14 @@
                 "id": "3abbb21a-840c-4caa-8785-4d3e01be995e",
                 "resourcePath": "rooms\\rMantle\\rMantle.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "b1e608d6-ff54-478e-ad23-5f9b0e7c6ce8",
+            "Value": {
+                "id": "9701102a-f844-498b-ba41-417ecfa02d97",
+                "resourcePath": "objects\\oTitleButtonExit\\oTitleButtonExit.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -748,6 +820,14 @@
                 "id": "6ecdd507-d35d-4665-9cac-b1b862f602b0",
                 "resourcePath": "sprites\\sPegShortCrust\\sPegShortCrust.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "cc1cc7b1-2db9-44fe-8e30-6193c7cf371c",
+            "Value": {
+                "id": "0ca11fcb-fdc5-4bef-afe3-ec0b609fb253",
+                "resourcePath": "objects\\oTitleButton\\oTitleButton.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -927,6 +1007,14 @@
             }
         },
         {
+            "Key": "e9f8c5bf-8a08-43f1-8eed-8594510b65fa",
+            "Value": {
+                "id": "8b0d8b9a-06bb-4ae3-acb7-88a0996655c5",
+                "resourcePath": "sprites\\sTitleBackground\\sTitleBackground.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "eda67b41-8bad-44bf-947a-510a21610365",
             "Value": {
                 "id": "8d7b7ba1-c6f0-41c9-a5c7-837d9d41b802",
@@ -981,6 +1069,14 @@
                 "resourcePath": "sprites\\sGemShortCrust\\sGemShortCrust.yy",
                 "resourceType": "GMSprite"
             }
+        },
+        {
+            "Key": "fcb5667b-2e18-4506-a50a-1878fcd96584",
+            "Value": {
+                "id": "e5931227-c66c-4378-afc8-8f54380644ea",
+                "resourcePath": "rooms\\rTitle\\rTitle.yy",
+                "resourceType": "GMRoom"
+            }
         }
     ],
     "script_order": [
@@ -994,7 +1090,8 @@
         "d470509e-d388-4433-b9e0-21e3d908c80f",
         "05dff383-5d1d-4c16-b967-5cfa0b646c81",
         "7324b6e4-504a-48ee-b82e-0a619e350854",
-        "0b0b303e-5dc2-47e9-a431-cd3d41d736ba"
+        "0b0b303e-5dc2-47e9-a431-cd3d41d736ba",
+        "6daeb30c-c417-40f6-ac8c-8cced3d3008c"
     ],
     "tutorial": ""
 }
