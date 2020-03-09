@@ -39,6 +39,22 @@
             }
         },
         {
+            "Key": "01456ac3-ffa1-4437-a9fe-e230c6d91568",
+            "Value": {
+                "id": "f5c5edc5-bcb3-4927-be04-2cd86902dec3",
+                "resourcePath": "objects\\oMadBeetleEnemy\\oMadBeetleEnemy.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "01520bcd-a065-40c2-accf-ea067757ee49",
+            "Value": {
+                "id": "d7c74682-e618-4018-a1f7-c9a35eab2e38",
+                "resourcePath": "objects\\oAntEnemy\\oAntEnemy.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0370642c-c8f5-41fc-8436-006089eac188",
             "Value": {
                 "id": "f23a3246-2cf1-4897-b813-f1d6f5e2cbc4",
@@ -407,6 +423,22 @@
             }
         },
         {
+            "Key": "600160eb-adf3-4faa-974c-52e56724a6db",
+            "Value": {
+                "id": "a158c6c7-9b04-4867-a66f-e6d35b95b06b",
+                "resourcePath": "sprites\\sChillBeetleEnemy\\sChillBeetleEnemy.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "60436ff7-8e4d-4d97-98c1-f2d1e9120cdd",
+            "Value": {
+                "id": "93099777-0af8-4771-bb61-bebe3271007b",
+                "resourcePath": "sprites\\sMadBeetleEnemy\\sMadBeetleEnemy.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "61c4f279-8474-4acc-938b-d7aa56ccf1e6",
             "Value": {
                 "id": "e2eaf511-f07f-4e9a-924f-5d339a898214",
@@ -495,6 +527,14 @@
             }
         },
         {
+            "Key": "78f90865-2231-462c-bc8c-a810395eb0c8",
+            "Value": {
+                "id": "9e2b8ee1-8104-434d-b497-80d9a3a66856",
+                "resourcePath": "sprites\\sHomingMole\\sHomingMole.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7c92fcdd-9118-489a-ad07-9dafd89dfc33",
             "Value": {
                 "id": "bc3da505-b8d0-4bb7-a4eb-05f635f306e7",
@@ -564,6 +604,14 @@
                 "id": "2f48166a-fcd3-4b62-acb0-e58a3e7324b1",
                 "resourcePath": "sprites\\sPegLongOuterCore\\sPegLongOuterCore.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "91122ed6-6d4d-488f-8282-7d4df1c895c3",
+            "Value": {
+                "id": "86c59de4-3ab5-40e6-bdc6-5b00a6e17d75",
+                "resourcePath": "paths\\path0\\path0.yy",
+                "resourceType": "GMPath"
             }
         },
         {
@@ -863,6 +911,14 @@
             }
         },
         {
+            "Key": "d305d658-dc96-4880-bf00-5c211149b681",
+            "Value": {
+                "id": "f2fe532a-7612-4a6f-ae54-a38c7c5525b4",
+                "resourcePath": "sprites\\sAntEnemy\\sAntEnemy.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d3bd7562-3f72-4b83-99e4-bcd6b4df19ff",
             "Value": {
                 "id": "9be7b641-27a1-4b2d-b3cb-76df856bc5eb",
@@ -876,6 +932,14 @@
                 "id": "1fab7552-024e-4198-b83c-a3a4b8da5645",
                 "resourcePath": "scripts\\tileParallax\\tileParallax.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "d4924094-aca6-487f-a35e-d632e1fb3ec8",
+            "Value": {
+                "id": "6f38f367-035f-4eda-8896-209808a287e3",
+                "resourcePath": "objects\\oHomingMole\\oHomingMole.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1019,6 +1083,14 @@
             "Value": {
                 "id": "8d7b7ba1-c6f0-41c9-a5c7-837d9d41b802",
                 "resourcePath": "objects\\oBucketWallRight\\oBucketWallRight.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ef29f3b1-477f-4524-8bcd-d728d769e2d2",
+            "Value": {
+                "id": "a7a0185a-f17d-400a-a10f-4212ee4185cc",
+                "resourcePath": "objects\\oChillBeetleEnemy\\oChillBeetleEnemy.yy",
                 "resourceType": "GMObject"
             }
         },

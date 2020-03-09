@@ -1,2 +1,9 @@
 /// @description Go to Next Room
-goToNextRoom();
+switch(room) {
+	case rInnerCore:
+		room_goto(rCrust);
+		break;
+	default:
+		goToNextRoom();
+		break;
+}
