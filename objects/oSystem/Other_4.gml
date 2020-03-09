@@ -1,0 +1,3 @@
+playMusic();
+resetCamera();
+placePegs();

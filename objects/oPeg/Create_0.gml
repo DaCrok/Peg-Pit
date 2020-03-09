@@ -1,43 +1,43 @@
-// randomly make the peg a gem or not
+// randomly make the peg long or short
+long = choose(true, false);
+if(long) image_angle = choose(0, 90);
+
+// rarely make the peg a gem
 if(irandom(10) == 1) gem = true;
 else gem = false;
 
-// randomly make the peg square or round
-square = choose(true, false);
-if(square) image_angle = choose(0, 45, 90, 90+45);
-
 if(!gem) { // isn't a gem
 	if(room == rCrust) {
-		if(!square) sprite_index = sPegRoundCrust;
-		else sprite_index = sPegSquareCrust;
+		if(!long) sprite_index = sPegShortCrust;
+		else sprite_index = sPegLongCrust;
 	}
 	if(room == rMantle) {
-		if(!square) sprite_index = sPegRoundMantle;
-		else sprite_index = sPegSquareMantle;
+		if(!long) sprite_index = sPegShortMantle;
+		else sprite_index = sPegLongMantle;
 	}
 	if(room == rOuterCore) {
-		if(!square) sprite_index = sPegRoundOuterCore;
-		else sprite_index = sPegSquareOuterCore;
+		if(!long) sprite_index = sPegShortOuterCore;
+		else sprite_index = sPegLongOuterCore;
 	}
 	if(room == rInnerCore) {
-		if(!square) sprite_index = sPegRoundInnerCore;
-		else sprite_index = sPegSquareInnerCore;
+		if(!long) sprite_index = sPegShortInnerCore;
+		else sprite_index = sPegLongInnerCore;
 	}
 } else { // is a gem
 	if(room == rCrust) {
-		if(!square) sprite_index = sGemAmethystRound;
-		else sprite_index = sGemAmethystSquare;
+		if(!long) sprite_index = sGemShortCrust;
+		else sprite_index = sGemLongCrust;
 	}
 	if(room == rMantle) {
-		if(!square) sprite_index = sGemSapphireRound;
-		else sprite_index = sGemSapphireSquare;
+		if(!long) sprite_index = sGemShortMantle;
+		else sprite_index = sGemLongMantle;
 	}
 	if(room == rOuterCore) {
-		if(!square) sprite_index = sGemCitrineRound;
-		else sprite_index = sGemCitrineSquare;
+		if(!long) sprite_index = sGemShortOuterCore;
+		else sprite_index = sGemLongOuterCore;
 	}
 	if(room == rInnerCore) {
-		if(!square) sprite_index = sGemEmeraldRound;
-		else sprite_index = sGemEmeraldSquare;
+		if(!long) sprite_index = sGemShortInnerCore;
+		else sprite_index = sGemLongInnerCore;
 	}
 }
