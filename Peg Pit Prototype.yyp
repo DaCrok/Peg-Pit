@@ -231,6 +231,14 @@
             }
         },
         {
+            "Key": "2f985970-94db-470f-aae5-8491b787e873",
+            "Value": {
+                "id": "0965b725-d734-4b83-b896-1ee0afaa07f0",
+                "resourcePath": "objects\\oClusterSpawn\\oClusterSpawn.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2fe5dcbc-fd7b-4a85-9979-26d72c8d22e2",
             "Value": {
                 "id": "0e1b36be-43c0-472b-89eb-68938bb1c278",
@@ -915,6 +923,14 @@
             "Value": {
                 "id": "2e08d408-475d-44c9-a875-d42b2a6762c9",
                 "resourcePath": "objects\\oPegPlacer\\oPegPlacer.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ef47156c-5de9-40ad-897d-92688206d2ad",
+            "Value": {
+                "id": "2fdf2482-d522-4e25-b8f7-667747a4e5f8",
+                "resourcePath": "objects\\oSingleSpawn\\oSingleSpawn.yy",
                 "resourceType": "GMObject"
             }
         },
