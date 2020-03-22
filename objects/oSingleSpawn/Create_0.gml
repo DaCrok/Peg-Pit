@@ -4,6 +4,8 @@ if room == rCrust {
 	crustPegSpawn(x,y);
 } else if room == rMantle {
 	mantlePegSpawn(x,y);
+} else if room == rOuterCore {
+	outerCorePegSpawn(x,y);
 } else {
 	placePegs();
 }

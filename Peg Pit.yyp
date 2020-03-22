@@ -623,6 +623,14 @@
             }
         },
         {
+            "Key": "8fae6e30-8336-496f-be26-880330aaa44a",
+            "Value": {
+                "id": "39dc6fe1-465a-42c6-afd8-01be8a4a1325",
+                "resourcePath": "scripts\\outerCorePegSpawn\\outerCorePegSpawn.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "906c3041-b573-41bf-bb6d-fdee377247bd",
             "Value": {
                 "id": "2f48166a-fcd3-4b62-acb0-e58a3e7324b1",
@@ -1197,7 +1205,8 @@
         "0b0b303e-5dc2-47e9-a431-cd3d41d736ba",
         "6daeb30c-c417-40f6-ac8c-8cced3d3008c",
         "b29de880-b0c3-453c-b085-3835fad39bc6",
-        "78d910db-fe2b-4800-b3aa-2dca6e61727e"
+        "78d910db-fe2b-4800-b3aa-2dca6e61727e",
+        "8fae6e30-8336-496f-be26-880330aaa44a"
     ],
     "tutorial": ""
 }
