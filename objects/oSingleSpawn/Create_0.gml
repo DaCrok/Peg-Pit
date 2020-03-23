@@ -7,5 +7,5 @@ if room == rCrust {
 } else if room == rOuterCore {
 	outerCorePegSpawn(x,y);
 } else {
-	placePegs();
+	//placePegs();
 }

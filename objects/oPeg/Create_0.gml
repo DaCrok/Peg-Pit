@@ -1,9 +1,12 @@
 // randomly make the peg long or short
+if place_meeting(x,y, oPeg){
+	instance_destroy();
+}
 long = choose(true, false);
-if(long) image_angle = choose(0, 90);
+if(long) image_angle = 90;
 
 // rarely make the peg a gem
-if(irandom(10) == 1) gem = true;
+if(irandom(10) <= 3) gem = true;
 else gem = false;
 
 if(!gem) { // isn't a gem
