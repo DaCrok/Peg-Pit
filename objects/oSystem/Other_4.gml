@@ -1,3 +1,2 @@
 playMusic();
 resetCamera();
-placePegs();
