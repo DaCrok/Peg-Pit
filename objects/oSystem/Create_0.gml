@@ -1,3 +1,5 @@
+pause = false;
+
 // each run of the game will be unique
 randomize();
 

@@ -7,7 +7,7 @@
     "inheritCreationOrder": false,
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
-        "7ac76654-6fe6-430d-bcab-abb0000f6e43"
+
     ],
     "IsDnD": false,
     "layers": [
@@ -155,7 +155,7 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-{"name": "inst_60CFF5B4","id": "7ac76654-6fe6-430d-bcab-abb0000f6e43","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_60CFF5B4","objId": "86616f9b-d4bf-4850-8e6a-86bf7cabf09f","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 224,"y": 128}
+
             ],
             "layers": [
 
@@ -312,12 +312,12 @@
     },
     "roomSettings":     {
         "id": "69773d8f-af47-4410-823a-e7b9748e9303",
-        "Height": 810,
+        "Height": 1000,
         "inheritRoomSettings": false,
         "modelName": "GMRoomSettings",
         "persistent": false,
         "mvc": "1.0",
-        "Width": 480
+        "Width": 1000
     },
     "mvc": "1.0",
     "views": [

@@ -1,3 +1,6 @@
+// camera
+instance_create_layer(0,0,"meta",oCamera);
+
 // sidebars
 instance_create_layer(0,0,"sidebar",oSidebarMinimap);
 instance_create_layer(0,0,"sidebar",oSidebarInventory);
