@@ -10,7 +10,7 @@
         "b1e608d6-ff54-478e-ad23-5f9b0e7c6ce8"
     ],
     "filterType": "GMObject",
-    "folderName": "title",
+    "folderName": "menu",
     "isDefaultView": false,
     "localisedFolderName": ""
 }

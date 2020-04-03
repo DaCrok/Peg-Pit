@@ -1,11 +1,15 @@
 if(pause) {
-	// create a background
-	//draw_set_color(c_black);
-	//draw_rectangle(camera_get_view_x(view_camera[0]),
-	//			   camera_get_view_y(view_camera[0]),
-	//			   camera_get_view_x(view_camera[0]) + camera_get_view_width(view_camera[0]),
-	//			   camera_get_view_y(view_camera[0]) + camera_get_view_height(view_camera[0]),
-	//			   0);
+	// fade out the game
+	if(!fade) {
+		draw_set_color(c_black);
+		draw_set_alpha(.5);
+		draw_rectangle(camera_get_view_x(view_camera[0]),
+					   camera_get_view_y(view_camera[0]),
+					   camera_get_view_x(view_camera[0]) + camera_get_view_width(view_camera[0]),
+					   camera_get_view_y(view_camera[0]) + camera_get_view_height(view_camera[0]),
+					   0);
+		fade = true;
+	}
 	// draw the text
 	draw_set_font(fMVBoli);
 	draw_set_halign(fa_center);

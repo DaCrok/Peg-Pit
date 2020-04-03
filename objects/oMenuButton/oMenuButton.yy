@@ -2,18 +2,8 @@
     "id": "cc1cc7b1-2db9-44fe-8e30-6193c7cf371c",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oTitleButton",
+    "name": "oMenuButton",
     "eventList": [
-        {
-            "id": "ff0bc1f9-064b-4c5f-863d-2b660856958a",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "cc1cc7b1-2db9-44fe-8e30-6193c7cf371c"
-        },
         {
             "id": "74e53e82-5f17-4e81-9527-e6860ea9bf17",
             "modelName": "GMEvent",
@@ -35,7 +25,17 @@
             "m_owner": "cc1cc7b1-2db9-44fe-8e30-6193c7cf371c"
         },
         {
-            "id": "c49be4c2-5843-4429-81d1-f3f2ee296d71",
+            "id": "e5ca785e-7680-400a-8732-19ea51c1a636",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "cc1cc7b1-2db9-44fe-8e30-6193c7cf371c"
+        },
+        {
+            "id": "8be8328b-2af1-4cef-81bc-dbbdcf941421",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
