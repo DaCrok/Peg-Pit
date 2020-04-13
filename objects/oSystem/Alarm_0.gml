@@ -1,2 +1,5 @@
-/// @description Spawn Pegs
-spawnPegs();
+/// @description Spawn Pegs & Enemies
+if(room != rTitle) {
+	spawnPegs();
+	spawnEnemies();
+}

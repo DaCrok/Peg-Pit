@@ -13,7 +13,9 @@ if(y < oCamera.y - oCamera.height/2 + sprite_height) {
 // don't let the ball go too fast
 speed = clamp(speed, 0, 5);
 
-// change the gravity direction inside the inner core
-if(room == rInnerCore){
-	gravity_direction = point_direction(x, y, room_width/2, room_height/2);
+// interact with black holes in the inner core
+if(instance_exists(oBlackHole)) {
+	var blackHole = instance_nearest(x, y, oBlackHole);
+	gravity_direction = lerp(gravity_direction, point_direction(x, y, blackHole.x, blackHole.y), 1.5 / point_distance(x, y, blackHole.x, blackHole.y));
+	gravity_direction = lerp(gravity_direction, 270, 0.01);
 }

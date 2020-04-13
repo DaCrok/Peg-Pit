@@ -1,4 +1,4 @@
 playMusic();
 
-// spawn pegs after a short delay
+// spawn pegs and enemiesafter a short delay
 alarm[0] = 1;

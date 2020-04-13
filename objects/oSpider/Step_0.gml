@@ -1,0 +1,1 @@
+image_angle = oscillate(-45, 45, current_time/10);

@@ -2,7 +2,8 @@
 if place_meeting(x,y, oPeg){
 	instance_destroy();
 }
-long = choose(true, false);
+// long = choose(true, false);
+long = false; // disable later, maybe...
 if(long) image_angle = 90;
 
 // rarely make the peg a gem
