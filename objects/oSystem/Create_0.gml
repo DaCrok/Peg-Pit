@@ -1,4 +1,4 @@
-pause = false;
+pause = false; // buttons appear when the game is paused
 
 // each run of the game will be unique
 randomize();

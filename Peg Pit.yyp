@@ -487,6 +487,14 @@
             }
         },
         {
+            "Key": "554dd9c3-e838-4bac-acbf-21964c811ca6",
+            "Value": {
+                "id": "bb837042-6bc0-4fc5-9cbd-d6be50f3ce78",
+                "resourcePath": "scripts\\deactivate_movement\\deactivate_movement.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "59dac044-bc99-458e-8560-73867df0b8a5",
             "Value": {
                 "id": "b12add56-dfbf-47fc-ba2f-b1ffbc2b4c85",
@@ -567,6 +575,14 @@
             }
         },
         {
+            "Key": "6febbdfc-548d-4195-9d3a-c1a927f7c7a8",
+            "Value": {
+                "id": "f5ce3703-3111-4ad2-b44a-338e67d76f4b",
+                "resourcePath": "views\\6febbdfc-548d-4195-9d3a-c1a927f7c7a8.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "728a28ee-8920-4d1d-9b50-c13de2c976d2",
             "Value": {
                 "id": "d92cabe6-6d31-4e07-8500-f9978febba47",
@@ -596,6 +612,14 @@
                 "id": "32fcb092-a2a8-4abe-b851-f055631ef9c6",
                 "resourcePath": "sprites\/sGemLongCrust\/sGemLongCrust.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "77ffa084-bfa3-4c2e-a4ae-053db547ba48",
+            "Value": {
+                "id": "9bda293f-c7b0-4ef6-9555-2e02ca6b0425",
+                "resourcePath": "objects\\oMenuButtonUnpause\\oMenuButtonUnpause.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -684,6 +708,14 @@
                 "id": "90b19f4b-206b-4f74-836f-1ec1a577e486",
                 "resourcePath": "views\/86b5ddc4-94a5-41b3-8af0-a94a564225bf.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "8781a36c-b5e6-4505-9e6d-6b5d7f006d69",
+            "Value": {
+                "id": "b3bc1848-2059-4fcf-9e17-6234795bcaa2",
+                "resourcePath": "sprites\\sMenuButtonSkipLevel\\sMenuButtonSkipLevel.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -791,14 +823,6 @@
             }
         },
         {
-            "Key": "9350920f-ebbc-4c5a-8ac7-4676fa17186f",
-            "Value": {
-                "id": "8e6b0fdb-2efd-4f0c-bff2-cafd714ac58a",
-                "resourcePath": "sprites\/sMenuButtonBlank\/sMenuButtonBlank.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "94533597-0bfe-45e5-80e7-eb5428d6a255",
             "Value": {
                 "id": "abaa4c3f-bcb8-4f4e-b5f0-5c47d251f105",
@@ -807,10 +831,26 @@
             }
         },
         {
+            "Key": "95975491-cc34-416d-87b0-5d723a166e96",
+            "Value": {
+                "id": "8908c6be-9385-4f87-8871-5a456190d16c",
+                "resourcePath": "views\\95975491-cc34-416d-87b0-5d723a166e96.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "95f04a02-3a57-4d88-a701-6d88fdfe2014",
             "Value": {
                 "id": "73119e7e-ebd6-4631-b40b-0714f6383a00",
                 "resourcePath": "objects\/oRailLauncher\/oRailLauncher.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "9673b2af-81f6-4783-a259-f939d63b334a",
+            "Value": {
+                "id": "6daebd48-0268-4d35-a7c2-841d47e8b2e8",
+                "resourcePath": "objects\\oMenuButtonRestartGame\\oMenuButtonRestartGame.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -956,6 +996,14 @@
                 "id": "3abbb21a-840c-4caa-8785-4d3e01be995e",
                 "resourcePath": "rooms\/rMantle\/rMantle.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "b0220838-2325-4d7d-8612-d83cba84feb1",
+            "Value": {
+                "id": "ca083af4-a594-42b9-8a43-808b14290515",
+                "resourcePath": "sprites\\sMenuButtonRestartGame\\sMenuButtonRestartGame.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1207,6 +1255,14 @@
             }
         },
         {
+            "Key": "dbf8756a-b2b1-4f01-9ecd-4f1bd419419a",
+            "Value": {
+                "id": "f0416931-dd12-42d7-bee0-ebaff14445fc",
+                "resourcePath": "sprites\\sMenuButtonUnpause\\sMenuButtonUnpause.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "dc294659-465f-4f6c-bd8d-008fc6a5ae17",
             "Value": {
                 "id": "09feb578-1dfe-4fc9-a73b-f8a85332c65e",
@@ -1399,6 +1455,14 @@
             }
         },
         {
+            "Key": "fadcc9e6-cf2c-4056-80c2-f2f2668bbfa2",
+            "Value": {
+                "id": "a7e5247f-166b-472e-bc69-d970924771b2",
+                "resourcePath": "objects\\oMenuButtonSkipLevel\\oMenuButtonSkipLevel.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "fcb5667b-2e18-4506-a50a-1878fcd96584",
             "Value": {
                 "id": "e5931227-c66c-4378-afc8-8f54380644ea",
@@ -1422,7 +1486,8 @@
         "05dff383-5d1d-4c16-b967-5cfa0b646c81",
         "7324b6e4-504a-48ee-b82e-0a619e350854",
         "0b0b303e-5dc2-47e9-a431-cd3d41d736ba",
-        "90c2e8c4-b9d0-473a-ae07-272fff4ef429"
+        "90c2e8c4-b9d0-473a-ae07-272fff4ef429",
+        "554dd9c3-e838-4bac-acbf-21964c811ca6"
     ],
     "tutorial": ""
 }
