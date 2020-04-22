@@ -490,7 +490,7 @@
             "Key": "554dd9c3-e838-4bac-acbf-21964c811ca6",
             "Value": {
                 "id": "bb837042-6bc0-4fc5-9cbd-d6be50f3ce78",
-                "resourcePath": "scripts\\deactivate_movement\\deactivate_movement.yy",
+                "resourcePath": "scripts\/deactivate_movement\/deactivate_movement.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -500,6 +500,14 @@
                 "id": "b12add56-dfbf-47fc-ba2f-b1ffbc2b4c85",
                 "resourcePath": "views\/59dac044-bc99-458e-8560-73867df0b8a5.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5b77b06a-62a2-4df5-95e8-3543c5d44c4f",
+            "Value": {
+                "id": "a2ff5c68-6ed4-4c13-ba02-1d0a30af5ce5",
+                "resourcePath": "sprites\/sCrustMap\/sCrustMap.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -554,7 +562,7 @@
             "Key": "6c3cc40f-d3f9-4a01-bfdd-0538555af0fe",
             "Value": {
                 "id": "fd54083a-b7f8-42a7-88f3-183ec2e0a57c",
-                "resourcePath": "views\\6c3cc40f-d3f9-4a01-bfdd-0538555af0fe.yy",
+                "resourcePath": "views\/6c3cc40f-d3f9-4a01-bfdd-0538555af0fe.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -578,7 +586,7 @@
             "Key": "6febbdfc-548d-4195-9d3a-c1a927f7c7a8",
             "Value": {
                 "id": "f5ce3703-3111-4ad2-b44a-338e67d76f4b",
-                "resourcePath": "views\\6febbdfc-548d-4195-9d3a-c1a927f7c7a8.yy",
+                "resourcePath": "views\/6febbdfc-548d-4195-9d3a-c1a927f7c7a8.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -618,7 +626,7 @@
             "Key": "77ffa084-bfa3-4c2e-a4ae-053db547ba48",
             "Value": {
                 "id": "9bda293f-c7b0-4ef6-9555-2e02ca6b0425",
-                "resourcePath": "objects\\oMenuButtonUnpause\\oMenuButtonUnpause.yy",
+                "resourcePath": "objects\/oMenuButtonUnpause\/oMenuButtonUnpause.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -714,7 +722,7 @@
             "Key": "8781a36c-b5e6-4505-9e6d-6b5d7f006d69",
             "Value": {
                 "id": "b3bc1848-2059-4fcf-9e17-6234795bcaa2",
-                "resourcePath": "sprites\\sMenuButtonSkipLevel\\sMenuButtonSkipLevel.yy",
+                "resourcePath": "sprites\/sMenuButtonSkipLevel\/sMenuButtonSkipLevel.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -834,7 +842,7 @@
             "Key": "95975491-cc34-416d-87b0-5d723a166e96",
             "Value": {
                 "id": "8908c6be-9385-4f87-8871-5a456190d16c",
-                "resourcePath": "views\\95975491-cc34-416d-87b0-5d723a166e96.yy",
+                "resourcePath": "views\/95975491-cc34-416d-87b0-5d723a166e96.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -850,7 +858,7 @@
             "Key": "9673b2af-81f6-4783-a259-f939d63b334a",
             "Value": {
                 "id": "6daebd48-0268-4d35-a7c2-841d47e8b2e8",
-                "resourcePath": "objects\\oMenuButtonRestartGame\\oMenuButtonRestartGame.yy",
+                "resourcePath": "objects\/oMenuButtonRestartGame\/oMenuButtonRestartGame.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1002,7 +1010,7 @@
             "Key": "b0220838-2325-4d7d-8612-d83cba84feb1",
             "Value": {
                 "id": "ca083af4-a594-42b9-8a43-808b14290515",
-                "resourcePath": "sprites\\sMenuButtonRestartGame\\sMenuButtonRestartGame.yy",
+                "resourcePath": "sprites\/sMenuButtonRestartGame\/sMenuButtonRestartGame.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1039,6 +1047,14 @@
             }
         },
         {
+            "Key": "b785c4a9-9222-48f1-af9e-ba6104c14a25",
+            "Value": {
+                "id": "6577d7fb-f87d-4c1c-8760-4a368f6be264",
+                "resourcePath": "sprites\/sMantleMap\/sMantleMap.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b92ad8be-eb43-421f-9176-9dadd05a3eea",
             "Value": {
                 "id": "3cb8b1de-1766-4c4a-945f-c42210e0e604",
@@ -1066,7 +1082,7 @@
             "Key": "bf39b928-a5b6-47c4-b2e8-72f8caa4a4e7",
             "Value": {
                 "id": "9ee75209-dcaa-4f52-9a7a-898968834625",
-                "resourcePath": "views\\bf39b928-a5b6-47c4-b2e8-72f8caa4a4e7.yy",
+                "resourcePath": "views\/bf39b928-a5b6-47c4-b2e8-72f8caa4a4e7.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -1258,7 +1274,7 @@
             "Key": "dbf8756a-b2b1-4f01-9ecd-4f1bd419419a",
             "Value": {
                 "id": "f0416931-dd12-42d7-bee0-ebaff14445fc",
-                "resourcePath": "sprites\\sMenuButtonUnpause\\sMenuButtonUnpause.yy",
+                "resourcePath": "sprites\/sMenuButtonUnpause\/sMenuButtonUnpause.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1276,6 +1292,22 @@
                 "id": "b55ccc7f-27a7-4d54-b4ed-2f1019ffbd6c",
                 "resourcePath": "views\/ddc34c82-f519-4236-aa13-32a494d40ec3.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "dfdbadef-a8f1-4e37-9dc5-83b5dec4a29d",
+            "Value": {
+                "id": "bd10feac-77c3-438d-b736-c93ab87d3016",
+                "resourcePath": "sprites\/sOuterCoreMap\/sOuterCoreMap.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e1bc8ada-12ca-4015-8677-260a348aab17",
+            "Value": {
+                "id": "014d427f-9e74-452b-be04-587541b237bb",
+                "resourcePath": "sprites\/sInnerCoreMap\/sInnerCoreMap.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1458,7 +1490,7 @@
             "Key": "fadcc9e6-cf2c-4056-80c2-f2f2668bbfa2",
             "Value": {
                 "id": "a7e5247f-166b-472e-bc69-d970924771b2",
-                "resourcePath": "objects\\oMenuButtonSkipLevel\\oMenuButtonSkipLevel.yy",
+                "resourcePath": "objects\/oMenuButtonSkipLevel\/oMenuButtonSkipLevel.yy",
                 "resourceType": "GMObject"
             }
         },
