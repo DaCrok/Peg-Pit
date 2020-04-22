@@ -24,7 +24,7 @@ instance_create_layer(0,0,"meta",oBucketWallRight);
 instance_create_layer(0,0,"launcher",oLauncher);
 
 // buttons
-instance_create_layer(0,0,"button",oMenuButtonSkipLevel);
+instance_create_layer(0,0,"button",oMenuButtonNextLevel);
 instance_create_layer(0,0,"button",oMenuButtonUnpause);
 instance_create_layer(0,0,"button",oMenuButtonRestartGame);
 instance_create_layer(0,0,"button",oMenuButtonExit);

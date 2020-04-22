@@ -391,14 +391,6 @@
             }
         },
         {
-            "Key": "46c21f57-006d-4b60-aaf1-0a6cc4fab7b7",
-            "Value": {
-                "id": "01173ba4-5888-4851-90f0-aa3e833f340a",
-                "resourcePath": "objects\/oNuke\/oNuke.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "49af1cc8-eb33-4ab6-8697-de9394078661",
             "Value": {
                 "id": "a9f10d51-6e23-4ba5-b85e-6803f55b56f8",
@@ -738,7 +730,7 @@
             "Key": "8781a36c-b5e6-4505-9e6d-6b5d7f006d69",
             "Value": {
                 "id": "b3bc1848-2059-4fcf-9e17-6234795bcaa2",
-                "resourcePath": "sprites\/sMenuButtonSkipLevel\/sMenuButtonSkipLevel.yy",
+                "resourcePath": "sprites\\sMenuButtonNextLevel\\sMenuButtonNextLevel.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1095,14 +1087,6 @@
             }
         },
         {
-            "Key": "bf39b928-a5b6-47c4-b2e8-72f8caa4a4e7",
-            "Value": {
-                "id": "9ee75209-dcaa-4f52-9a7a-898968834625",
-                "resourcePath": "views\/bf39b928-a5b6-47c4-b2e8-72f8caa4a4e7.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
             "Key": "c0de9046-d8f0-4c7e-adf1-0487dd75ffea",
             "Value": {
                 "id": "04163453-41c4-4ee0-9387-c1cef809ff33",
@@ -1439,14 +1423,6 @@
             }
         },
         {
-            "Key": "f5bbf2a5-d792-43aa-a25e-ffe3a8c746d8",
-            "Value": {
-                "id": "7790d047-6f38-40b1-b74c-b90addb99297",
-                "resourcePath": "objects\/oOneUp\/oOneUp.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "f5d61653-3590-4253-935c-b48c3ce7dfc9",
             "Value": {
                 "id": "61bfb9ab-06f7-4330-97e5-475c6ec7d027",
@@ -1498,7 +1474,7 @@
             "Key": "fadcc9e6-cf2c-4056-80c2-f2f2668bbfa2",
             "Value": {
                 "id": "a7e5247f-166b-472e-bc69-d970924771b2",
-                "resourcePath": "objects\/oMenuButtonSkipLevel\/oMenuButtonSkipLevel.yy",
+                "resourcePath": "objects\\oMenuButtonNextLevel\\oMenuButtonNextLevel.yy",
                 "resourceType": "GMObject"
             }
         },

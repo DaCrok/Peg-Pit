@@ -1,1 +1,1 @@
-alarm[0] = room_speed;
+if(instance_exists(oBucketInside) && oBucketInside.shopOpen == false) alarm[0] = room_speed;

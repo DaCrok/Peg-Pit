@@ -1,4 +1,4 @@
-/// @description Skip Level
+/// @description Go to Next Level
 instance_activate_all();
 switch(room) {
 	case rInnerCore:
@@ -8,3 +8,6 @@ switch(room) {
 		goToNextRoom();
 		break;
 }
+
+// activate all instances
+instance_activate_all();

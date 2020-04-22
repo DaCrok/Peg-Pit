@@ -1,0 +1,1 @@
+shopOpen = true;

@@ -9,3 +9,5 @@ window_set_fullscreen(true);
 
 // spawn persistent objects
 spawnPersistentObjects();
+
+nukeList = ds_list_create();

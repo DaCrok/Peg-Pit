@@ -2,7 +2,7 @@
     "id": "fadcc9e6-cf2c-4056-80c2-f2f2668bbfa2",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oMenuButtonSkipLevel",
+    "name": "oMenuButtonNextLevel",
     "eventList": [
         {
             "id": "429411df-9312-4182-96d6-0440f07c265d",

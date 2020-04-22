@@ -1,1 +1,2 @@
 setBucketSprite("inside");
+shopOpen = false;

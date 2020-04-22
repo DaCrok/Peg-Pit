@@ -1,0 +1,2 @@
+shopOpen = false;
+initialCollision = true;

@@ -2,7 +2,7 @@
     "id": "8781a36c-b5e6-4505-9e6d-6b5d7f006d69",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "sMenuButtonSkipLevel",
+    "name": "sMenuButtonNextLevel",
     "For3D": false,
     "HTile": false,
     "VTile": false,
