@@ -311,6 +311,14 @@
             }
         },
         {
+            "Key": "312bb7c1-234e-480a-92ec-c9d11ea17a4b",
+            "Value": {
+                "id": "2d3fba06-a879-4987-94f6-b9acd8daf5bb",
+                "resourcePath": "views\\312bb7c1-234e-480a-92ec-c9d11ea17a4b.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "31aebaa5-b6b3-4dfe-9868-d30e92405f92",
             "Value": {
                 "id": "3a37e402-11ce-4ddd-b918-f0b3a37f9c88",
@@ -332,6 +340,14 @@
                 "id": "c327f490-ecc1-454d-9721-a2c2de5cea81",
                 "resourcePath": "views\/37a93225-39f3-42ce-9b75-137515bf1ba5.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "3b8be491-6ebe-48f1-819c-71ced2ea06b6",
+            "Value": {
+                "id": "1bff2a3e-7162-4b00-beb9-98601e302a24",
+                "resourcePath": "sprites\\sIconBucket\\sIconBucket.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -455,6 +471,14 @@
             }
         },
         {
+            "Key": "52dd1553-7067-4635-a2cc-52f07b5251af",
+            "Value": {
+                "id": "a4cc5cbc-38de-4251-8787-f89172fb3fa5",
+                "resourcePath": "sprites\\sIconLauncher\\sIconLauncher.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "53a1cdd5-49ee-45ab-949c-ea0971f9b04a",
             "Value": {
                 "id": "59c440ba-41ea-4456-9148-6c830e07a711",
@@ -500,14 +524,6 @@
                 "id": "b12add56-dfbf-47fc-ba2f-b1ffbc2b4c85",
                 "resourcePath": "views\/59dac044-bc99-458e-8560-73867df0b8a5.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "5b77b06a-62a2-4df5-95e8-3543c5d44c4f",
-            "Value": {
-                "id": "a2ff5c68-6ed4-4c13-ba02-1d0a30af5ce5",
-                "resourcePath": "sprites\/sCrustMap\/sCrustMap.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -1047,19 +1063,19 @@
             }
         },
         {
-            "Key": "b785c4a9-9222-48f1-af9e-ba6104c14a25",
-            "Value": {
-                "id": "6577d7fb-f87d-4c1c-8760-4a368f6be264",
-                "resourcePath": "sprites\/sMantleMap\/sMantleMap.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "b92ad8be-eb43-421f-9176-9dadd05a3eea",
             "Value": {
                 "id": "3cb8b1de-1766-4c4a-945f-c42210e0e604",
                 "resourcePath": "views\/b92ad8be-eb43-421f-9176-9dadd05a3eea.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "bb6f0fba-e5f5-4386-b5b2-7a39f846e3ed",
+            "Value": {
+                "id": "2dee7dc9-cbf4-4457-84a5-c95916b7bbca",
+                "resourcePath": "sprites\\sIconPeg\\sIconPeg.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1295,22 +1311,6 @@
             }
         },
         {
-            "Key": "dfdbadef-a8f1-4e37-9dc5-83b5dec4a29d",
-            "Value": {
-                "id": "bd10feac-77c3-438d-b736-c93ab87d3016",
-                "resourcePath": "sprites\/sOuterCoreMap\/sOuterCoreMap.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "e1bc8ada-12ca-4015-8677-260a348aab17",
-            "Value": {
-                "id": "014d427f-9e74-452b-be04-587541b237bb",
-                "resourcePath": "sprites\/sInnerCoreMap\/sInnerCoreMap.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "e1ce8ca8-f510-4cb8-aa29-ad21e0a1e527",
             "Value": {
                 "id": "a77afba0-ada6-41a9-934d-2970a503cb57",
@@ -1467,6 +1467,14 @@
             "Value": {
                 "id": "2c5371f4-7c05-4f30-96a1-7688a9e8a151",
                 "resourcePath": "sprites\/sNumbers\/sNumbers.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f897002b-98bc-4d76-b5b9-4ce39c550f07",
+            "Value": {
+                "id": "fa95854c-d594-423f-829b-c2a4e6a3eeaa",
+                "resourcePath": "sprites\\sIconBall\\sIconBall.yy",
                 "resourceType": "GMSprite"
             }
         },
