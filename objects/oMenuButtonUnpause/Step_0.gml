@@ -1,5 +1,5 @@
 if(room != rTitle && instance_exists(oCamera) && oSystem.pause) {
-	x = oCamera.x - oCamera.width/8;
+	x = oCamera.x;
 	y = oCamera.y + oCamera.height/8;
 } else {
 	// go offscreen if not paused
